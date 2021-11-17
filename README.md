@@ -28,4 +28,4 @@ If you use fastEmbed in a scientific publication, we would appreciate citations 
 ```
 
 ## Data sets
-Data sets are available at MEGA, please see: https://mega.nz/#F!RFVXgSbY!irCk0KMA95rcGzgHDqr_iw
+Data sets are available at dropbox, please see: https://www.dropbox.com/s/lx287h1sqsftsuy/FastEmbed-data.rar?dl=0
